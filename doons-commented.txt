@@ -5,15 +5,7 @@ REM requires Turbo-BASIC XL
 REM by Kim Slawson
 REM initial idea and doon shapes 2021-08-22
 REM development began for competition 2024-02-xx
-
-REM TODO OR DIE for compo:
-REM   Playtest the fuck out of it
-REM   REARRANGE CODE! avoid procs when possible or fit into whole line. if/then is the line-kiler ig?
-REM   check for extra parens, needed not needed for comparison, assignment, etc
-REM   check for superfluous/redundant variables/program code 
-REM   comment
-REM   screenshots
-REM   story
+REM development concluded 2024-03-16
 
 REM the doons look like this
 REM
